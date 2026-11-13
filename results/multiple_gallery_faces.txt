@@ -1,0 +1,1460 @@
+IMAGES WITH MULTIPLE FACES
+
+Identity folder: Abdel_Nasser_Assidi
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Abdel_Nasser_Assidi\Abdel_Nasser_Assidi_0001.jpg
+Faces detected: 3
+
+Identity folder: Adolfo_Rodriguez_Saa
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Adolfo_Rodriguez_Saa\Adolfo_Rodriguez_Saa_0001.jpg
+Faces detected: 3
+
+Identity folder: Adrian_McPherson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Adrian_McPherson\Adrian_McPherson_0001.jpg
+Faces detected: 2
+
+Identity folder: Alec_Baldwin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Alec_Baldwin\Alec_Baldwin_0001.jpg
+Faces detected: 3
+
+Identity folder: Alex_Barros
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Alex_Barros\Alex_Barros_0001.jpg
+Faces detected: 2
+
+Identity folder: Alex_Penelas
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Alex_Penelas\Alex_Penelas_0001.jpg
+Faces detected: 2
+
+Identity folder: Alex_Sink
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Alex_Sink\Alex_Sink_0001.jpg
+Faces detected: 2
+
+Identity folder: Ali_Abbas
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ali_Abbas\Ali_Abbas_0001.jpg
+Faces detected: 2
+
+Identity folder: Alvaro_Silva_Calderon
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Alvaro_Silva_Calderon\Alvaro_Silva_Calderon_0001.jpg
+Faces detected: 3
+
+Identity folder: Andre_Agassi
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Andre_Agassi\Andre_Agassi_0001.jpg
+Faces detected: 2
+
+Identity folder: Andrew_Bunner
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Andrew_Bunner\Andrew_Bunner_0001.jpg
+Faces detected: 2
+
+Identity folder: Andrew_Niccol
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Andrew_Niccol\Andrew_Niccol_0001.jpg
+Faces detected: 2
+
+Identity folder: Andrew_Weissmann
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Andrew_Weissmann\Andrew_Weissmann_0001.jpg
+Faces detected: 3
+
+Identity folder: Angelo_Reyes
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Angelo_Reyes\Angelo_Reyes_0001.jpg
+Faces detected: 2
+
+Identity folder: Antonio_Banderas
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Antonio_Banderas\Antonio_Banderas_0001.jpg
+Faces detected: 2
+
+Identity folder: Anwar_Ibrahim
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Anwar_Ibrahim\Anwar_Ibrahim_0001.jpg
+Faces detected: 2
+
+Identity folder: Arminio_Fraga
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Arminio_Fraga\Arminio_Fraga_0001.jpg
+Faces detected: 3
+
+Identity folder: Arnoldo_Aleman
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Arnoldo_Aleman\Arnoldo_Aleman_0001.jpg
+Faces detected: 4
+
+Identity folder: Barbara_Walters
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Barbara_Walters\Barbara_Walters_0001.jpg
+Faces detected: 2
+
+Identity folder: Bashar_Assad
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bashar_Assad\Bashar_Assad_0001.jpg
+Faces detected: 2
+
+Identity folder: Ben_Curtis
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ben_Curtis\Ben_Curtis_0001.jpg
+Faces detected: 2
+
+Identity folder: Ben_Glisan
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ben_Glisan\Ben_Glisan_0001.jpg
+Faces detected: 2
+
+Identity folder: Benjamin_Netanyahu
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Benjamin_Netanyahu\Benjamin_Netanyahu_0001.jpg
+Faces detected: 2
+
+Identity folder: Bernardo_Segura
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bernardo_Segura\Bernardo_Segura_0001.jpg
+Faces detected: 2
+
+Identity folder: Bertrand_Bonello
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bertrand_Bonello\Bertrand_Bonello_0001.jpg
+Faces detected: 3
+
+Identity folder: Betsy_Smith
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Betsy_Smith\Betsy_Smith_0001.jpg
+Faces detected: 2
+
+Identity folder: Bijan_Darvish
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bijan_Darvish\Bijan_Darvish_0001.jpg
+Faces detected: 2
+
+Identity folder: Bijan_Namdar_Zangeneh
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bijan_Namdar_Zangeneh\Bijan_Namdar_Zangeneh_0001.jpg
+Faces detected: 3
+
+Identity folder: Bill_Paxton
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bill_Paxton\Bill_Paxton_0001.jpg
+Faces detected: 2
+
+Identity folder: Binyamin_Ben-Eliezer
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Binyamin_Ben-Eliezer\Binyamin_Ben-Eliezer_0001.jpg
+Faces detected: 2
+
+Identity folder: Bob_Colvin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bob_Colvin\Bob_Colvin_0001.jpg
+Faces detected: 2
+
+Identity folder: Bob_Dole
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bob_Dole\Bob_Dole_0001.jpg
+Faces detected: 2
+
+Identity folder: Bob_Graham
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bob_Graham\Bob_Graham_0001.jpg
+Faces detected: 2
+
+Identity folder: Boris_Becker
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Boris_Becker\Boris_Becker_0001.jpg
+Faces detected: 2
+
+Identity folder: Boris_Berezovsky
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Boris_Berezovsky\Boris_Berezovsky_0001.jpg
+Faces detected: 3
+
+Identity folder: Boris_Yeltsin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Boris_Yeltsin\Boris_Yeltsin_0001.jpg
+Faces detected: 2
+
+Identity folder: Branko_Crvenkovski
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Branko_Crvenkovski\Branko_Crvenkovski_0001.jpg
+Faces detected: 2
+
+Identity folder: Brian_Heidik
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Brian_Heidik\Brian_Heidik_0001.jpg
+Faces detected: 2
+
+Identity folder: Bridget_Fonda
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Bridget_Fonda\Bridget_Fonda_0001.jpg
+Faces detected: 3
+
+Identity folder: Brigitte_Boisselier
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Brigitte_Boisselier\Brigitte_Boisselier_0001.jpg
+Faces detected: 2
+
+Identity folder: Butch_Davis
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Butch_Davis\Butch_Davis_0001.jpg
+Faces detected: 2
+
+Identity folder: Calista_Flockhart
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Calista_Flockhart\Calista_Flockhart_0001.jpg
+Faces detected: 2
+
+Identity folder: Camilla_Parker_Bowles
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Camilla_Parker_Bowles\Camilla_Parker_Bowles_0001.jpg
+Faces detected: 2
+
+Identity folder: Carlos_Ortega
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Carlos_Ortega\Carlos_Ortega_0001.jpg
+Faces detected: 3
+
+Identity folder: Carlos_Vives
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Carlos_Vives\Carlos_Vives_0001.jpg
+Faces detected: 2
+
+Identity folder: Carson_Daly
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Carson_Daly\Carson_Daly_0001.jpg
+Faces detected: 3
+
+Identity folder: Cecilia_Bolocco
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Cecilia_Bolocco\Cecilia_Bolocco_0001.jpg
+Faces detected: 3
+
+Identity folder: Charles_Grassley
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Charles_Grassley\Charles_Grassley_0001.jpg
+Faces detected: 2
+
+Identity folder: Charles_Kartman
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Charles_Kartman\Charles_Kartman_0001.jpg
+Faces detected: 2
+
+Identity folder: Charles_Mathews
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Charles_Mathews\Charles_Mathews_0001.jpg
+Faces detected: 2
+
+Identity folder: Charles_Taylor
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Charles_Taylor\Charles_Taylor_0001.jpg
+Faces detected: 2
+
+Identity folder: Charlie_Zaa
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Charlie_Zaa\Charlie_Zaa_0001.jpg
+Faces detected: 2
+
+Identity folder: Chen_Liang_Yu
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Chen_Liang_Yu\Chen_Liang_Yu_0001.jpg
+Faces detected: 3
+
+Identity folder: Chita_Rivera
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Chita_Rivera\Chita_Rivera_0001.jpg
+Faces detected: 2
+
+Identity folder: Choi_Sung-hong
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Choi_Sung-hong\Choi_Sung-hong_0001.jpg
+Faces detected: 2
+
+Identity folder: Chok_Tong_Goh
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Chok_Tong_Goh\Chok_Tong_Goh_0001.jpg
+Faces detected: 2
+
+Identity folder: Christian_Wulff
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Christian_Wulff\Christian_Wulff_0001.jpg
+Faces detected: 2
+
+Identity folder: Clint_Eastwood
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Clint_Eastwood\Clint_Eastwood_0001.jpg
+Faces detected: 2
+
+Identity folder: Colin_Farrell
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Colin_Farrell\Colin_Farrell_0001.jpg
+Faces detected: 2
+
+Identity folder: Costas_Simitis
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Costas_Simitis\Costas_Simitis_0001.jpg
+Faces detected: 2
+
+Identity folder: Dalai_Lama
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Dalai_Lama\Dalai_Lama_0001.jpg
+Faces detected: 2
+
+Identity folder: Dan_Wheldon
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Dan_Wheldon\Dan_Wheldon_0001.jpg
+Faces detected: 2
+
+Identity folder: Daniel_Day-Lewis
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Daniel_Day-Lewis\Daniel_Day-Lewis_0001.jpg
+Faces detected: 2
+
+Identity folder: Daryl_Hannah
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Daryl_Hannah\Daryl_Hannah_0001.jpg
+Faces detected: 3
+
+Identity folder: David_Bell
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\David_Bell\David_Bell_0001.jpg
+Faces detected: 2
+
+Identity folder: David_Caruso
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\David_Caruso\David_Caruso_0001.jpg
+Faces detected: 2
+
+Identity folder: Demetrius_Ferraciu
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Demetrius_Ferraciu\Demetrius_Ferraciu_0001.jpg
+Faces detected: 3
+
+Identity folder: Denise_Johnson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Denise_Johnson\Denise_Johnson_0001.jpg
+Faces detected: 2
+
+Identity folder: Dennis_Powell
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Dennis_Powell\Dennis_Powell_0001.jpg
+Faces detected: 2
+
+Identity folder: Denzel_Washington
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Denzel_Washington\Denzel_Washington_0001.jpg
+Faces detected: 3
+
+Identity folder: Derek_Jeter
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Derek_Jeter\Derek_Jeter_0001.jpg
+Faces detected: 2
+
+Identity folder: Diane_Green
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Diane_Green\Diane_Green_0001.jpg
+Faces detected: 3
+
+Identity folder: Dianne_Feinstein
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Dianne_Feinstein\Dianne_Feinstein_0001.jpg
+Faces detected: 2
+
+Identity folder: Dino_de_Laurentis
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Dino_de_Laurentis\Dino_de_Laurentis_0001.jpg
+Faces detected: 2
+
+Identity folder: Don_Nickles
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Don_Nickles\Don_Nickles_0001.jpg
+Faces detected: 2
+
+Identity folder: Donna_Shalala
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Donna_Shalala\Donna_Shalala_0001.jpg
+Faces detected: 2
+
+Identity folder: Dorthy_Moxley
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Dorthy_Moxley\Dorthy_Moxley_0001.jpg
+Faces detected: 2
+
+Identity folder: Doug_Duncan
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Doug_Duncan\Doug_Duncan_0001.jpg
+Faces detected: 2
+
+Identity folder: Ed_Rosenthal
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ed_Rosenthal\Ed_Rosenthal_0001.jpg
+Faces detected: 3
+
+Identity folder: Ed_Smart
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ed_Smart\Ed_Smart_0001.jpg
+Faces detected: 2
+
+Identity folder: Edie_Falco
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Edie_Falco\Edie_Falco_0001.jpg
+Faces detected: 2
+
+Identity folder: Edward_Lu
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Edward_Lu\Edward_Lu_0001.jpg
+Faces detected: 2
+
+Identity folder: Edward_Norton
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Edward_Norton\Edward_Norton_0001.jpg
+Faces detected: 2
+
+Identity folder: Edwina_Currie
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Edwina_Currie\Edwina_Currie_0001.jpg
+Faces detected: 2
+
+Identity folder: Elizabeth_Hurley
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Elizabeth_Hurley\Elizabeth_Hurley_0001.jpg
+Faces detected: 2
+
+Identity folder: Elizabeth_Smart
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Elizabeth_Smart\Elizabeth_Smart_0001.jpg
+Faces detected: 2
+
+Identity folder: Ellen_DeGeneres
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ellen_DeGeneres\Ellen_DeGeneres_0001.jpg
+Faces detected: 4
+
+Identity folder: Emmanuelle_Beart
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Emmanuelle_Beart\Emmanuelle_Beart_0001.jpg
+Faces detected: 2
+
+Identity folder: Eric_Hinske
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Eric_Hinske\Eric_Hinske_0001.jpg
+Faces detected: 2
+
+Identity folder: Eric_Rosser
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Eric_Rosser\Eric_Rosser_0001.jpg
+Faces detected: 2
+
+Identity folder: Erika_Christensen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Erika_Christensen\Erika_Christensen_0001.jpg
+Faces detected: 2
+
+Identity folder: Ernie_Fletcher
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ernie_Fletcher\Ernie_Fletcher_0001.jpg
+Faces detected: 2
+
+Identity folder: Faye_Dunaway
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Faye_Dunaway\Faye_Dunaway_0001.jpg
+Faces detected: 2
+
+Identity folder: Felipe_Perez_Roque
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Felipe_Perez_Roque\Felipe_Perez_Roque_0001.jpg
+Faces detected: 2
+
+Identity folder: Frances_Fisher
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Frances_Fisher\Frances_Fisher_0001.jpg
+Faces detected: 2
+
+Identity folder: Frank_Dunham_Jr
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Frank_Dunham_Jr\Frank_Dunham_Jr_0001.jpg
+Faces detected: 3
+
+Identity folder: Franko_Simatovic
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Franko_Simatovic\Franko_Simatovic_0001.jpg
+Faces detected: 2
+
+Identity folder: Franz_Fischler
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Franz_Fischler\Franz_Fischler_0001.jpg
+Faces detected: 2
+
+Identity folder: Gabriel_Valdes
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gabriel_Valdes\Gabriel_Valdes_0001.jpg
+Faces detected: 2
+
+Identity folder: Gao_Qiang
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gao_Qiang\Gao_Qiang_0001.jpg
+Faces detected: 3
+
+Identity folder: Garry_Kasparov
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Garry_Kasparov\Garry_Kasparov_0001.jpg
+Faces detected: 2
+
+Identity folder: Gary_Bergeron
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gary_Bergeron\Gary_Bergeron_0001.jpg
+Faces detected: 2
+
+Identity folder: Gary_Doer
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gary_Doer\Gary_Doer_0001.jpg
+Faces detected: 3
+
+Identity folder: George_Clooney
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\George_Clooney\George_Clooney_0001.jpg
+Faces detected: 2
+
+Identity folder: George_Papandreou
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\George_Papandreou\George_Papandreou_0001.jpg
+Faces detected: 2
+
+Identity folder: George_Roy_Hill
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\George_Roy_Hill\George_Roy_Hill_0001.jpg
+Faces detected: 2
+
+Identity folder: George_Ryan
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\George_Ryan\George_Ryan_0001.jpg
+Faces detected: 4
+
+Identity folder: George_Voinovich
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\George_Voinovich\George_Voinovich_0001.jpg
+Faces detected: 2
+
+Identity folder: Gerard_Depardieu
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gerard_Depardieu\Gerard_Depardieu_0001.jpg
+Faces detected: 2
+
+Identity folder: Gillian_Anderson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gillian_Anderson\Gillian_Anderson_0001.jpg
+Faces detected: 2
+
+Identity folder: Gisele_Bundchen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gisele_Bundchen\Gisele_Bundchen_0001.jpg
+Faces detected: 2
+
+Identity folder: Glafcos_Clerides
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Glafcos_Clerides\Glafcos_Clerides_0001.jpg
+Faces detected: 2
+
+Identity folder: Greg_Ostertag
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Greg_Ostertag\Greg_Ostertag_0001.jpg
+Faces detected: 3
+
+Identity folder: Greg_Rusedski
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Greg_Rusedski\Greg_Rusedski_0001.jpg
+Faces detected: 2
+
+Identity folder: Gregory_Hines
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gregory_Hines\Gregory_Hines_0001.jpg
+Faces detected: 2
+
+Identity folder: Gro_Harlem_Brundtland
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Gro_Harlem_Brundtland\Gro_Harlem_Brundtland_0001.jpg
+Faces detected: 2
+
+Identity folder: Guillaume_Soro
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Guillaume_Soro\Guillaume_Soro_0001.jpg
+Faces detected: 3
+
+Identity folder: Habib_Rizieq
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Habib_Rizieq\Habib_Rizieq_0001.jpg
+Faces detected: 5
+
+Identity folder: Hal_Sutton
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hal_Sutton\Hal_Sutton_0001.jpg
+Faces detected: 2
+
+Identity folder: Hamzah_Haz
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hamzah_Haz\Hamzah_Haz_0001.jpg
+Faces detected: 4
+
+Identity folder: Hans_Blix
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hans_Blix\Hans_Blix_0001.jpg
+Faces detected: 3
+
+Identity folder: Harrison_Ford
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Harrison_Ford\Harrison_Ford_0001.jpg
+Faces detected: 2
+
+Identity folder: Hashim_Thaci
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hashim_Thaci\Hashim_Thaci_0001.jpg
+Faces detected: 3
+
+Identity folder: Hassan_Wirajuda
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hassan_Wirajuda\Hassan_Wirajuda_0001.jpg
+Faces detected: 2
+
+Identity folder: Heath_Ledger
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Heath_Ledger\Heath_Ledger_0001.jpg
+Faces detected: 2
+
+Identity folder: Hector_Babenco
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hector_Babenco\Hector_Babenco_0001.jpg
+Faces detected: 2
+
+Identity folder: Hermann_Maier
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hermann_Maier\Hermann_Maier_0001.jpg
+Faces detected: 2
+
+Identity folder: Hilary_Duff
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hilary_Duff\Hilary_Duff_0001.jpg
+Faces detected: 3
+
+Identity folder: Hillary_Clinton
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hillary_Clinton\Hillary_Clinton_0001.jpg
+Faces detected: 3
+
+Identity folder: Hipolito_Mejia
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hipolito_Mejia\Hipolito_Mejia_0001.jpg
+Faces detected: 2
+
+Identity folder: Hitomi_Soga
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hitomi_Soga\Hitomi_Soga_0001.jpg
+Faces detected: 2
+
+Identity folder: Hun_Sen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Hun_Sen\Hun_Sen_0001.jpg
+Faces detected: 2
+
+Identity folder: Iain_Duncan_Smith
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Iain_Duncan_Smith\Iain_Duncan_Smith_0001.jpg
+Faces detected: 3
+
+Identity folder: Ian_McKellen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ian_McKellen\Ian_McKellen_0001.jpg
+Faces detected: 3
+
+Identity folder: Ibrahim_Jaafari
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ibrahim_Jaafari\Ibrahim_Jaafari_0001.jpg
+Faces detected: 2
+
+Identity folder: Igor_Ivanov
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Igor_Ivanov\Igor_Ivanov_0001.jpg
+Faces detected: 2
+
+Identity folder: Inocencio_Arias
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Inocencio_Arias\Inocencio_Arias_0001.jpg
+Faces detected: 2
+
+Identity folder: Isabella_Rossellini
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Isabella_Rossellini\Isabella_Rossellini_0001.jpg
+Faces detected: 2
+
+Identity folder: Isaiah_Washington
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Isaiah_Washington\Isaiah_Washington_0001.jpg
+Faces detected: 2
+
+Identity folder: Ishaq_Shahryar
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ishaq_Shahryar\Ishaq_Shahryar_0001.jpg
+Faces detected: 2
+
+Identity folder: Ismail_Merchant
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ismail_Merchant\Ismail_Merchant_0001.jpg
+Faces detected: 2
+
+Identity folder: Jack_Grubman
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jack_Grubman\Jack_Grubman_0001.jpg
+Faces detected: 2
+
+Identity folder: Jack_Straw
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jack_Straw\Jack_Straw_0001.jpg
+Faces detected: 2
+
+Identity folder: Jackie_Chan
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jackie_Chan\Jackie_Chan_0001.jpg
+Faces detected: 2
+
+Identity folder: James_Butts
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\James_Butts\James_Butts_0001.jpg
+Faces detected: 2
+
+Identity folder: James_Cameron
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\James_Cameron\James_Cameron_0001.jpg
+Faces detected: 2
+
+Identity folder: James_Cunningham
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\James_Cunningham\James_Cunningham_0001.jpg
+Faces detected: 5
+
+Identity folder: James_Ivory
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\James_Ivory\James_Ivory_0001.jpg
+Faces detected: 3
+
+Identity folder: Javier_Solana
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Javier_Solana\Javier_Solana_0001.jpg
+Faces detected: 4
+
+Identity folder: Javier_Weber
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Javier_Weber\Javier_Weber_0001.jpg
+Faces detected: 3
+
+Identity folder: Jean-Claude_Braquet
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jean-Claude_Braquet\Jean-Claude_Braquet_0001.jpg
+Faces detected: 2
+
+Identity folder: Jean_Charest
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jean_Charest\Jean_Charest_0001.jpg
+Faces detected: 2
+
+Identity folder: Jean_Chretien
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jean_Chretien\Jean_Chretien_0001.jpg
+Faces detected: 2
+
+Identity folder: Jeanne_Moreau
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jeanne_Moreau\Jeanne_Moreau_0001.jpg
+Faces detected: 5
+
+Identity folder: Jeffrey_Scott_Postell
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jeffrey_Scott_Postell\Jeffrey_Scott_Postell_0001.jpg
+Faces detected: 2
+
+Identity folder: Jennifer_Garner
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jennifer_Garner\Jennifer_Garner_0001.jpg
+Faces detected: 2
+
+Identity folder: Jeremy_Greenstock
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jeremy_Greenstock\Jeremy_Greenstock_0001.jpg
+Faces detected: 3
+
+Identity folder: Jerry_Regier
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jerry_Regier\Jerry_Regier_0001.jpg
+Faces detected: 3
+
+Identity folder: Jesse_Jackson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jesse_Jackson\Jesse_Jackson_0001.jpg
+Faces detected: 4
+
+Identity folder: Jesse_Ventura
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jesse_Ventura\Jesse_Ventura_0001.jpg
+Faces detected: 3
+
+Identity folder: Jessica_Lange
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jessica_Lange\Jessica_Lange_0001.jpg
+Faces detected: 2
+
+Identity folder: Jim_Harrick
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jim_Harrick\Jim_Harrick_0001.jpg
+Faces detected: 2
+
+Identity folder: Jimmy_Carter
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jimmy_Carter\Jimmy_Carter_0001.jpg
+Faces detected: 2
+
+Identity folder: JJ_Redick
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\JJ_Redick\JJ_Redick_0001.jpg
+Faces detected: 2
+
+Identity folder: Joe_Calzaghe
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Joe_Calzaghe\Joe_Calzaghe_0001.jpg
+Faces detected: 2
+
+Identity folder: Joe_Dumars
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Joe_Dumars\Joe_Dumars_0001.jpg
+Faces detected: 4
+
+Identity folder: Joerg_Haider
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Joerg_Haider\Joerg_Haider_0001.jpg
+Faces detected: 3
+
+Identity folder: John_Allen_Muhammad
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\John_Allen_Muhammad\John_Allen_Muhammad_0001.jpg
+Faces detected: 2
+
+Identity folder: John_Cusack
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\John_Cusack\John_Cusack_0001.jpg
+Faces detected: 2
+
+Identity folder: John_McCormack
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\John_McCormack\John_McCormack_0001.jpg
+Faces detected: 2
+
+Identity folder: John_McEnroe
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\John_McEnroe\John_McEnroe_0001.jpg
+Faces detected: 2
+
+Identity folder: John_Paul_II
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\John_Paul_II\John_Paul_II_0001.jpg
+Faces detected: 2
+
+Identity folder: John_Rowland
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\John_Rowland\John_Rowland_0001.jpg
+Faces detected: 2
+
+Identity folder: John_Taylor
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\John_Taylor\John_Taylor_0001.jpg
+Faces detected: 2
+
+Identity folder: John_Travolta
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\John_Travolta\John_Travolta_0001.jpg
+Faces detected: 3
+
+Identity folder: Jon_Voight
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jon_Voight\Jon_Voight_0001.jpg
+Faces detected: 2
+
+Identity folder: Jong_Thae_Hwa
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jong_Thae_Hwa\Jong_Thae_Hwa_0001.jpg
+Faces detected: 4
+
+Identity folder: Jorge_Castaneda
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jorge_Castaneda\Jorge_Castaneda_0001.jpg
+Faces detected: 2
+
+Identity folder: Jose_Sarney
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jose_Sarney\Jose_Sarney_0001.jpg
+Faces detected: 2
+
+Identity folder: Jose_Viegas_Filho
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jose_Viegas_Filho\Jose_Viegas_Filho_0001.jpg
+Faces detected: 2
+
+Identity folder: Joseph_Blatter
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Joseph_Blatter\Joseph_Blatter_0001.jpg
+Faces detected: 2
+
+Identity folder: Jude_Law
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Jude_Law\Jude_Law_0001.jpg
+Faces detected: 2
+
+Identity folder: Julia_Tymoshenko
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Julia_Tymoshenko\Julia_Tymoshenko_0001.jpg
+Faces detected: 2
+
+Identity folder: Julianne_Moore
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Julianne_Moore\Julianne_Moore_0001.jpg
+Faces detected: 2
+
+Identity folder: Julie_Taymor
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Julie_Taymor\Julie_Taymor_0001.jpg
+Faces detected: 2
+
+Identity folder: Junichiro_Koizumi
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Junichiro_Koizumi\Junichiro_Koizumi_0001.jpg
+Faces detected: 2
+
+Identity folder: Justine_Henin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Justine_Henin\Justine_Henin_0001.jpg
+Faces detected: 2
+
+Identity folder: Keira_Knightley
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Keira_Knightley\Keira_Knightley_0001.jpg
+Faces detected: 2
+
+Identity folder: Kelvin_Sampson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kelvin_Sampson\Kelvin_Sampson_0001.jpg
+Faces detected: 2
+
+Identity folder: Kemal_Dervis
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kemal_Dervis\Kemal_Dervis_0001.jpg
+Faces detected: 2
+
+Identity folder: Ken_Watanabe
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ken_Watanabe\Ken_Watanabe_0001.jpg
+Faces detected: 3
+
+Identity folder: Kenneth_Evans
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kenneth_Evans\Kenneth_Evans_0001.jpg
+Faces detected: 3
+
+Identity folder: Kevin_Costner
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kevin_Costner\Kevin_Costner_0001.jpg
+Faces detected: 2
+
+Identity folder: Kevin_Spacey
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kevin_Spacey\Kevin_Spacey_0001.jpg
+Faces detected: 2
+
+Identity folder: Kim_Clijsters
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kim_Clijsters\Kim_Clijsters_0001.jpg
+Faces detected: 3
+
+Identity folder: Kim_Dae-jung
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kim_Dae-jung\Kim_Dae-jung_0001.jpg
+Faces detected: 3
+
+Identity folder: Kim_Jong-Il
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kim_Jong-Il\Kim_Jong-Il_0001.jpg
+Faces detected: 2
+
+Identity folder: Kim_Ryong-sung
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kim_Ryong-sung\Kim_Ryong-sung_0001.jpg
+Faces detected: 2
+
+Identity folder: Kimi_Raikkonen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kimi_Raikkonen\Kimi_Raikkonen_0001.jpg
+Faces detected: 2
+
+Identity folder: Kobe_Bryant
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kobe_Bryant\Kobe_Bryant_0001.jpg
+Faces detected: 2
+
+Identity folder: Kurt_Warner
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Kurt_Warner\Kurt_Warner_0001.jpg
+Faces detected: 2
+
+Identity folder: Larry_Brown
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Larry_Brown\Larry_Brown_0001.jpg
+Faces detected: 3
+
+Identity folder: Larry_Lucchino
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Larry_Lucchino\Larry_Lucchino_0001.jpg
+Faces detected: 2
+
+Identity folder: Larry_Thompson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Larry_Thompson\Larry_Thompson_0001.jpg
+Faces detected: 2
+
+Identity folder: Lauren_Killian
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Lauren_Killian\Lauren_Killian_0001.jpg
+Faces detected: 2
+
+Identity folder: Laurent_Gbagbo
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Laurent_Gbagbo\Laurent_Gbagbo_0001.jpg
+Faces detected: 2
+
+Identity folder: Lea_Fastow
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Lea_Fastow\Lea_Fastow_0001.jpg
+Faces detected: 3
+
+Identity folder: Lee_Soo-hyuck
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Lee_Soo-hyuck\Lee_Soo-hyuck_0001.jpg
+Faces detected: 3
+
+Identity folder: Leszek_Miller
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Leszek_Miller\Leszek_Miller_0001.jpg
+Faces detected: 3
+
+Identity folder: Liam_Neeson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Liam_Neeson\Liam_Neeson_0001.jpg
+Faces detected: 2
+
+Identity folder: Lino_Oviedo
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Lino_Oviedo\Lino_Oviedo_0001.jpg
+Faces detected: 2
+
+Identity folder: LK_Advani
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\LK_Advani\LK_Advani_0001.jpg
+Faces detected: 2
+
+Identity folder: Lucy_Liu
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Lucy_Liu\Lucy_Liu_0001.jpg
+Faces detected: 2
+
+Identity folder: Luis_Gonzalez_Macchi
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Luis_Gonzalez_Macchi\Luis_Gonzalez_Macchi_0001.jpg
+Faces detected: 5
+
+Identity folder: Lynn_Abraham
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Lynn_Abraham\Lynn_Abraham_0001.jpg
+Faces detected: 4
+
+Identity folder: Lynne_Cheney
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Lynne_Cheney\Lynne_Cheney_0001.jpg
+Faces detected: 2
+
+Identity folder: Makhdoom_Amin_Fahim
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Makhdoom_Amin_Fahim\Makhdoom_Amin_Fahim_0001.jpg
+Faces detected: 3
+
+Identity folder: Manfred_Stolpe
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Manfred_Stolpe\Manfred_Stolpe_0001.jpg
+Faces detected: 2
+
+Identity folder: Marc_Grossman
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Marc_Grossman\Marc_Grossman_0001.jpg
+Faces detected: 2
+
+Identity folder: Marcelo_Rios
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Marcelo_Rios\Marcelo_Rios_0001.jpg
+Faces detected: 2
+
+Identity folder: Maria_Luisa_Mendonca
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Maria_Luisa_Mendonca\Maria_Luisa_Mendonca_0001.jpg
+Faces detected: 3
+
+Identity folder: Maria_Shriver
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Maria_Shriver\Maria_Shriver_0001.jpg
+Faces detected: 2
+
+Identity folder: Mario_Dumont
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mario_Dumont\Mario_Dumont_0001.jpg
+Faces detected: 2
+
+Identity folder: Marissa_Jaret_Winokur
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Marissa_Jaret_Winokur\Marissa_Jaret_Winokur_0001.jpg
+Faces detected: 2
+
+Identity folder: Mark_Geragos
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mark_Geragos\Mark_Geragos_0001.jpg
+Faces detected: 4
+
+Identity folder: Mark_Hurlbert
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mark_Hurlbert\Mark_Hurlbert_0001.jpg
+Faces detected: 2
+
+Identity folder: Mark_Richt
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mark_Richt\Mark_Richt_0001.jpg
+Faces detected: 2
+
+Identity folder: Mark_Wahlberg
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mark_Wahlberg\Mark_Wahlberg_0001.jpg
+Faces detected: 2
+
+Identity folder: Martha_Beatriz_Roque
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Martha_Beatriz_Roque\Martha_Beatriz_Roque_0001.jpg
+Faces detected: 2
+
+Identity folder: Martha_Lucia_Ramirez
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Martha_Lucia_Ramirez\Martha_Lucia_Ramirez_0001.jpg
+Faces detected: 2
+
+Identity folder: Martin_Scorsese
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Martin_Scorsese\Martin_Scorsese_0001.jpg
+Faces detected: 2
+
+Identity folder: Martin_Sheen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Martin_Sheen\Martin_Sheen_0001.jpg
+Faces detected: 2
+
+Identity folder: Martina_Hingis
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Martina_Hingis\Martina_Hingis_0001.jpg
+Faces detected: 2
+
+Identity folder: Mary_Steenburgen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mary_Steenburgen\Mary_Steenburgen_0001.jpg
+Faces detected: 2
+
+Identity folder: Matt_Doherty
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Matt_Doherty\Matt_Doherty_0001.jpg
+Faces detected: 3
+
+Identity folder: Megan_Mullally
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Megan_Mullally\Megan_Mullally_0001.jpg
+Faces detected: 2
+
+Identity folder: Megawati_Sukarnoputri
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Megawati_Sukarnoputri\Megawati_Sukarnoputri_0001.jpg
+Faces detected: 2
+
+Identity folder: Mel_Gibson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mel_Gibson\Mel_Gibson_0001.jpg
+Faces detected: 4
+
+Identity folder: Melissa_Etheridge
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Melissa_Etheridge\Melissa_Etheridge_0001.jpg
+Faces detected: 2
+
+Identity folder: Mesut_Yilmaz
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mesut_Yilmaz\Mesut_Yilmaz_0001.jpg
+Faces detected: 3
+
+Identity folder: Mian_Khursheed_Mehmood_Kasuri
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mian_Khursheed_Mehmood_Kasuri\Mian_Khursheed_Mehmood_Kasuri_0001.jpg
+Faces detected: 2
+
+Identity folder: Michael_Caine
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Michael_Caine\Michael_Caine_0001.jpg
+Faces detected: 2
+
+Identity folder: Michael_Chang
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Michael_Chang\Michael_Chang_0001.jpg
+Faces detected: 2
+
+Identity folder: Michael_Douglas
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Michael_Douglas\Michael_Douglas_0001.jpg
+Faces detected: 2
+
+Identity folder: Michael_J_Sheehan
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Michael_J_Sheehan\Michael_J_Sheehan_0001.jpg
+Faces detected: 2
+
+Identity folder: Michael_Moore
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Michael_Moore\Michael_Moore_0001.jpg
+Faces detected: 2
+
+Identity folder: Michelle_Pfeiffer
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Michelle_Pfeiffer\Michelle_Pfeiffer_0001.jpg
+Faces detected: 2
+
+Identity folder: Mikhail_Gorbachev
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mikhail_Gorbachev\Mikhail_Gorbachev_0001.jpg
+Faces detected: 2
+
+Identity folder: Mikhail_Wehbe
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mikhail_Wehbe\Mikhail_Wehbe_0001.jpg
+Faces detected: 2
+
+Identity folder: Mitoji_Yabunaka
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mitoji_Yabunaka\Mitoji_Yabunaka_0001.jpg
+Faces detected: 2
+
+Identity folder: Mohammed_Al-Douri
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Mohammed_Al-Douri\Mohammed_Al-Douri_0001.jpg
+Faces detected: 3
+
+Identity folder: Monica_Bellucci
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Monica_Bellucci\Monica_Bellucci_0001.jpg
+Faces detected: 7
+
+Identity folder: Nanni_Moretti
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Nanni_Moretti\Nanni_Moretti_0001.jpg
+Faces detected: 2
+
+Identity folder: Nelson_Mandela
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Nelson_Mandela\Nelson_Mandela_0001.jpg
+Faces detected: 3
+
+Identity folder: Neri_Marcore
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Neri_Marcore\Neri_Marcore_0001.jpg
+Faces detected: 3
+
+Identity folder: Nicanor_Duarte_Frutos
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Nicanor_Duarte_Frutos\Nicanor_Duarte_Frutos_0001.jpg
+Faces detected: 2
+
+Identity folder: Nicholas_Byron
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Nicholas_Byron\Nicholas_Byron_0001.jpg
+Faces detected: 2
+
+Identity folder: Nicolas_Cage
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Nicolas_Cage\Nicolas_Cage_0001.jpg
+Faces detected: 2
+
+Identity folder: Nicole_Kidman
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Nicole_Kidman\Nicole_Kidman_0001.jpg
+Faces detected: 2
+
+Identity folder: Nora_Bendijo
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Nora_Bendijo\Nora_Bendijo_0001.jpg
+Faces detected: 2
+
+Identity folder: OJ_Simpson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\OJ_Simpson\OJ_Simpson_0001.jpg
+Faces detected: 2
+
+Identity folder: Olivia_Newton-John
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Olivia_Newton-John\Olivia_Newton-John_0001.jpg
+Faces detected: 2
+
+Identity folder: Orlando_Bloom
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Orlando_Bloom\Orlando_Bloom_0001.jpg
+Faces detected: 2
+
+Identity folder: Orrin_Hatch
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Orrin_Hatch\Orrin_Hatch_0001.jpg
+Faces detected: 2
+
+Identity folder: Oscar_De_La_Hoya
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Oscar_De_La_Hoya\Oscar_De_La_Hoya_0001.jpg
+Faces detected: 3
+
+Identity folder: Owen_Wilson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Owen_Wilson\Owen_Wilson_0001.jpg
+Faces detected: 3
+
+Identity folder: Pamela_Anderson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Pamela_Anderson\Pamela_Anderson_0001.jpg
+Faces detected: 8
+
+Identity folder: Patrick_Leahy
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Patrick_Leahy\Patrick_Leahy_0001.jpg
+Faces detected: 2
+
+Identity folder: Paul_Byrd
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Paul_Byrd\Paul_Byrd_0001.jpg
+Faces detected: 2
+
+Identity folder: Paul_Coppin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Paul_Coppin\Paul_Coppin_0001.jpg
+Faces detected: 2
+
+Identity folder: Paul_Shanley
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Paul_Shanley\Paul_Shanley_0001.jpg
+Faces detected: 2
+
+Identity folder: Pedro_Solbes
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Pedro_Solbes\Pedro_Solbes_0001.jpg
+Faces detected: 2
+
+Identity folder: Peter_Greenaway
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Peter_Greenaway\Peter_Greenaway_0001.jpg
+Faces detected: 2
+
+Identity folder: Phil_Gramm
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Phil_Gramm\Phil_Gramm_0001.jpg
+Faces detected: 2
+
+Identity folder: Philippe_Noiret
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Philippe_Noiret\Philippe_Noiret_0001.jpg
+Faces detected: 5
+
+Identity folder: Pierre_Pettigrew
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Pierre_Pettigrew\Pierre_Pettigrew_0001.jpg
+Faces detected: 2
+
+Identity folder: Prince_Naruhito
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Prince_Naruhito\Prince_Naruhito_0001.jpg
+Faces detected: 3
+
+Identity folder: Princess_Masako
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Princess_Masako\Princess_Masako_0001.jpg
+Faces detected: 3
+
+Identity folder: Pupi_Avati
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Pupi_Avati\Pupi_Avati_0001.jpg
+Faces detected: 2
+
+Identity folder: Rafael_Ramirez
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Rafael_Ramirez\Rafael_Ramirez_0001.jpg
+Faces detected: 2
+
+Identity folder: Ralph_Klein
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ralph_Klein\Ralph_Klein_0001.jpg
+Faces detected: 2
+
+Identity folder: Raoul_Ruiz
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Raoul_Ruiz\Raoul_Ruiz_0001.jpg
+Faces detected: 2
+
+Identity folder: Ray_Allen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ray_Allen\Ray_Allen_0001.jpg
+Faces detected: 2
+
+Identity folder: Rebecca_Romijn-Stamos
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Rebecca_Romijn-Stamos\Rebecca_Romijn-Stamos_0001.jpg
+Faces detected: 2
+
+Identity folder: Rebekah_Chantay_Revels
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Rebekah_Chantay_Revels\Rebekah_Chantay_Revels_0001.jpg
+Faces detected: 2
+
+Identity folder: Ricardo_Lopez_Murphy
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ricardo_Lopez_Murphy\Ricardo_Lopez_Murphy_0001.jpg
+Faces detected: 3
+
+Identity folder: Richard_Myers
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Richard_Myers\Richard_Myers_0001.jpg
+Faces detected: 2
+
+Identity folder: Richard_Shelby
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Richard_Shelby\Richard_Shelby_0001.jpg
+Faces detected: 2
+
+Identity folder: Rick_Carlisle
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Rick_Carlisle\Rick_Carlisle_0001.jpg
+Faces detected: 2
+
+Identity folder: Rob_Schneider
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Rob_Schneider\Rob_Schneider_0001.jpg
+Faces detected: 2
+
+Identity folder: Robert_Blackwill
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robert_Blackwill\Robert_Blackwill_0001.jpg
+Faces detected: 2
+
+Identity folder: Robert_Bullock
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robert_Bullock\Robert_Bullock_0001.jpg
+Faces detected: 2
+
+Identity folder: Robert_Duvall
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robert_Duvall\Robert_Duvall_0001.jpg
+Faces detected: 4
+
+Identity folder: Robert_Fico
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robert_Fico\Robert_Fico_0001.jpg
+Faces detected: 3
+
+Identity folder: Robert_Redford
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robert_Redford\Robert_Redford_0001.jpg
+Faces detected: 2
+
+Identity folder: Robert_Stack
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robert_Stack\Robert_Stack_0001.jpg
+Faces detected: 3
+
+Identity folder: Robert_Torricelli
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robert_Torricelli\Robert_Torricelli_0001.jpg
+Faces detected: 3
+
+Identity folder: Robin_McLaurin_Williams
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robin_McLaurin_Williams\Robin_McLaurin_Williams_0001.jpg
+Faces detected: 2
+
+Identity folder: Robinson_Stevenin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Robinson_Stevenin\Robinson_Stevenin_0001.jpg
+Faces detected: 2
+
+Identity folder: Rod_Blagojevich
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Rod_Blagojevich\Rod_Blagojevich_0001.jpg
+Faces detected: 2
+
+Identity folder: Roman_Polanski
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Roman_Polanski\Roman_Polanski_0001.jpg
+Faces detected: 3
+
+Identity folder: Romano_Prodi
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Romano_Prodi\Romano_Prodi_0001.jpg
+Faces detected: 2
+
+Identity folder: Ron_Howard
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ron_Howard\Ron_Howard_0001.jpg
+Faces detected: 2
+
+Identity folder: Roseanne_Barr
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Roseanne_Barr\Roseanne_Barr_0001.jpg
+Faces detected: 2
+
+Identity folder: Rupert_Grint
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Rupert_Grint\Rupert_Grint_0001.jpg
+Faces detected: 2
+
+Identity folder: Russell_Crowe
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Russell_Crowe\Russell_Crowe_0001.jpg
+Faces detected: 2
+
+Identity folder: Ruth_Harlow
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Ruth_Harlow\Ruth_Harlow_0001.jpg
+Faces detected: 2
+
+Identity folder: Sadie_Frost
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sadie_Frost\Sadie_Frost_0001.jpg
+Faces detected: 2
+
+Identity folder: Salma_Hayek
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Salma_Hayek\Salma_Hayek_0001.jpg
+Faces detected: 2
+
+Identity folder: Sam_Bith
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sam_Bith\Sam_Bith_0001.jpg
+Faces detected: 4
+
+Identity folder: Samira_Makhmalbaf
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Samira_Makhmalbaf\Samira_Makhmalbaf_0001.jpg
+Faces detected: 2
+
+Identity folder: Samuel_Waksal
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Samuel_Waksal\Samuel_Waksal_0001.jpg
+Faces detected: 2
+
+Identity folder: Sandra_Bullock
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sandra_Bullock\Sandra_Bullock_0001.jpg
+Faces detected: 3
+
+Identity folder: Scott_Peterson
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Scott_Peterson\Scott_Peterson_0001.jpg
+Faces detected: 2
+
+Identity folder: Scott_Sullivan
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Scott_Sullivan\Scott_Sullivan_0001.jpg
+Faces detected: 3
+
+Identity folder: Sepp_Blatter
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sepp_Blatter\Sepp_Blatter_0001.jpg
+Faces detected: 5
+
+Identity folder: Sharon_Davis
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sharon_Davis\Sharon_Davis_0001.jpg
+Faces detected: 2
+
+Identity folder: Sharon_Osbourne
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sharon_Osbourne\Sharon_Osbourne_0001.jpg
+Faces detected: 3
+
+Identity folder: Shaukat_Aziz
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Shaukat_Aziz\Shaukat_Aziz_0001.jpg
+Faces detected: 2
+
+Identity folder: Sheila_Wellstone
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sheila_Wellstone\Sheila_Wellstone_0001.jpg
+Faces detected: 2
+
+Identity folder: Sila_Calderon
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sila_Calderon\Sila_Calderon_0001.jpg
+Faces detected: 2
+
+Identity folder: Silvio_Berlusconi
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Silvio_Berlusconi\Silvio_Berlusconi_0001.jpg
+Faces detected: 2
+
+Identity folder: Simon_Cowell
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Simon_Cowell\Simon_Cowell_0001.jpg
+Faces detected: 7
+
+Identity folder: Stellan_Skarsgard
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Stellan_Skarsgard\Stellan_Skarsgard_0001.jpg
+Faces detected: 2
+
+Identity folder: Steve_Lavin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Steve_Lavin\Steve_Lavin_0001.jpg
+Faces detected: 2
+
+Identity folder: Steve_Nash
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Steve_Nash\Steve_Nash_0001.jpg
+Faces detected: 2
+
+Identity folder: Susan_Sarandon
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Susan_Sarandon\Susan_Sarandon_0001.jpg
+Faces detected: 2
+
+Identity folder: Sylvester_Stallone
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Sylvester_Stallone\Sylvester_Stallone_0001.jpg
+Faces detected: 7
+
+Identity folder: Tammy_Lynn_Michaels
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tammy_Lynn_Michaels\Tammy_Lynn_Michaels_0001.jpg
+Faces detected: 2
+
+Identity folder: Tariq_Aziz
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tariq_Aziz\Tariq_Aziz_0001.jpg
+Faces detected: 2
+
+Identity folder: Tassos_Papadopoulos
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tassos_Papadopoulos\Tassos_Papadopoulos_0001.jpg
+Faces detected: 2
+
+Identity folder: Thaksin_Shinawatra
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Thaksin_Shinawatra\Thaksin_Shinawatra_0001.jpg
+Faces detected: 2
+
+Identity folder: Theresa_May
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Theresa_May\Theresa_May_0001.jpg
+Faces detected: 2
+
+Identity folder: Thomas_Birmingham
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Thomas_Birmingham\Thomas_Birmingham_0001.jpg
+Faces detected: 4
+
+Identity folder: Thomas_Fargo
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Thomas_Fargo\Thomas_Fargo_0001.jpg
+Faces detected: 2
+
+Identity folder: Thomas_OBrien
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Thomas_OBrien\Thomas_OBrien_0001.jpg
+Faces detected: 2
+
+Identity folder: Tim_Chapman
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tim_Chapman\Tim_Chapman_0001.jpg
+Faces detected: 2
+
+Identity folder: Todd_Haynes
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Todd_Haynes\Todd_Haynes_0001.jpg
+Faces detected: 2
+
+Identity folder: Tom_Brady
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tom_Brady\Tom_Brady_0001.jpg
+Faces detected: 2
+
+Identity folder: Tom_Craddick
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tom_Craddick\Tom_Craddick_0001.jpg
+Faces detected: 2
+
+Identity folder: Tom_Glavine
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tom_Glavine\Tom_Glavine_0001.jpg
+Faces detected: 2
+
+Identity folder: Tom_Hanks
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tom_Hanks\Tom_Hanks_0001.jpg
+Faces detected: 2
+
+Identity folder: Tom_Harkin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tom_Harkin\Tom_Harkin_0001.jpg
+Faces detected: 3
+
+Identity folder: Tommy_Franks
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tommy_Franks\Tommy_Franks_0001.jpg
+Faces detected: 2
+
+Identity folder: Tony_Blair
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tony_Blair\Tony_Blair_0001.jpg
+Faces detected: 2
+
+Identity folder: Tony_Stewart
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tony_Stewart\Tony_Stewart_0001.jpg
+Faces detected: 2
+
+Identity folder: Tung_Chee-hwa
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Tung_Chee-hwa\Tung_Chee-hwa_0001.jpg
+Faces detected: 2
+
+Identity folder: Vaclav_Havel
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Vaclav_Havel\Vaclav_Havel_0001.jpg
+Faces detected: 2
+
+Identity folder: Vanessa_Incontrada
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Vanessa_Incontrada\Vanessa_Incontrada_0001.jpg
+Faces detected: 2
+
+Identity folder: Vanessa_Redgrave
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Vanessa_Redgrave\Vanessa_Redgrave_0001.jpg
+Faces detected: 2
+
+Identity folder: Vin_Diesel
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Vin_Diesel\Vin_Diesel_0001.jpg
+Faces detected: 2
+
+Identity folder: Vivica_Fox
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Vivica_Fox\Vivica_Fox_0001.jpg
+Faces detected: 2
+
+Identity folder: Vladimir_Putin
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Vladimir_Putin\Vladimir_Putin_0001.jpg
+Faces detected: 2
+
+Identity folder: Vladimiro_Montesinos
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Vladimiro_Montesinos\Vladimiro_Montesinos_0001.jpg
+Faces detected: 2
+
+Identity folder: William_Bulger
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\William_Bulger\William_Bulger_0001.jpg
+Faces detected: 2
+
+Identity folder: William_Hochul
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\William_Hochul\William_Hochul_0001.jpg
+Faces detected: 2
+
+Identity folder: Woody_Allen
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Woody_Allen\Woody_Allen_0001.jpg
+Faces detected: 3
+
+Identity folder: Yasser_Arafat
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Yasser_Arafat\Yasser_Arafat_0001.jpg
+Faces detected: 2
+
+Identity folder: Yoko_Ono
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Yoko_Ono\Yoko_Ono_0001.jpg
+Faces detected: 3
+
+Identity folder: Yu_Shyi-kun
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Yu_Shyi-kun\Yu_Shyi-kun_0001.jpg
+Faces detected: 2
+
+Identity folder: Yukiko_Okudo
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Yukiko_Okudo\Yukiko_Okudo_0001.jpg
+Faces detected: 3
+
+Identity folder: Zafarullah_Khan_Jamali
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Zafarullah_Khan_Jamali\Zafarullah_Khan_Jamali_0001.jpg
+Faces detected: 2
+
+Identity folder: Zarai_Toledo
+Image: E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Zarai_Toledo\Zarai_Toledo_0001.jpg
+Faces detected: 3
+
+
+IMAGES WITH NO DETECTED FACES
+
+E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Chan_Gailey\Chan_Gailey_0001.jpg
+E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Geno_Auriemma\Geno_Auriemma_0001.jpg
+E:\facieal_recoginition_projects\12_arcface_insightface\dataset\lfw_recognition\gallery\Stan_Heath\Stan_Heath_0001.jpg

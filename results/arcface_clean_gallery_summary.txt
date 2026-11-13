@@ -1,0 +1,24 @@
+============================================================
+ARCFACE CLEAN GALLERY EVALUATION SUMMARY
+============================================================
+Gallery embeddings: 1314
+Gallery identities: 1314
+Total test images: 7484
+Successfully evaluated: 7471
+Correct known-identity predictions: 5836
+Incorrect known-identity predictions: 145
+Known identities evaluated: 5981
+Test images with identities absent from gallery: 1490
+Images with no detected face: 13
+Images that could not be loaded: 0
+Invalid embeddings: 0
+Known-identity accuracy: 97.58%
+
+Note: This is closed-set nearest-neighbor identification.
+Unseen identities still receive a nearest gallery match.
+No unknown-person rejection threshold is applied.
+Largest detected face is selected in each test image.
+
+CSV: E:\facieal_recoginition_projects\12_arcface_insightface\results\arcface_evaluation_clean_gallery.csv
+Summary: E:\facieal_recoginition_projects\12_arcface_insightface\results\arcface_clean_gallery_summary.txt
+============================================================
